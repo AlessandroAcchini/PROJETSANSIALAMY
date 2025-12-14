@@ -1,1 +1,4 @@
 Faire verifs inscription.php
+
+14/12/25
+Je me suis arrêté à l'affichage dynamique du nombre de classes, faut faire tout en rapport avec les élèves maintenant
